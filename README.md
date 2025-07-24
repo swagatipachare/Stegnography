@@ -2,7 +2,7 @@
 
 The Audio Steganography Suite is a multi-functional Python application built with Streamlit that allows users to securely embed, extract, and analyze hidden messages in audio files using a wide variety of steganography and encryption techniques. It demonstrates both classic and modern approaches to covert communication using digital audio.
 
-- 🌐 [Try the Live Streamlit App](https://swagatipachare-audio-stego.streamlit.app)
+- 🌐 [Try the Live Streamlit App](https://audio-stegnography.streamlit.app/)
 
 🧪 Features
 🎵 LSB Steganography
